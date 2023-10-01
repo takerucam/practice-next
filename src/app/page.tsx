@@ -1,4 +1,5 @@
 import Button from "@/app/_components/button";
+import "@mantine/core/styles.css";
 
 export default function Home() {
   return (
